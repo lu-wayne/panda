@@ -1,0 +1,13 @@
+cn_clip
+transformers==4.31.0
+transformers-stream-generator==0.0.4
+pandas==1.4.2
+ftfy
+regex
+tqdm
+scikit-learn
+positional_encodings
+openpyxl
+numpy==1.23.2
+openprompt==1.0.1
+git+https://github.com/openai/CLIP.git
